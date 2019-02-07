@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeWork11 AIDL</string>
+    <string name="your_name">Your name</string>
+    <string name="enter_name">Enter Name</string>
+</resources>
